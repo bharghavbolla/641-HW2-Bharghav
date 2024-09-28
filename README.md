@@ -9,4 +9,4 @@ My intrest 3: Cooking
     - Backend: NodeJs.
     - Experiences- Worked as Web development Intern, App Development Intern
 
-![Favorite_meme](https://images.app.goo.gl/HiCQm6ysi9PYGEJ49)) 
+![Favorite_meme](https://images.app.goo.gl/HiCQm6ysi9PYGEJ49)
